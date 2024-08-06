@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    justify-content: center;
+    margin-left: 43%;
+}
+
+.box{
+    justify-content: center;
+    margin-left: 40%;
+}
